@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV Player</string>
+    <string name="load_playlist">Carregar Playlist</string>
+    <string name="enter_url">Digite a URL da playlist</string>
+    <string name="loading">Carregando...</string>
+    <string name="error_loading">Erro ao carregar</string>
+    <string name="no_channels">Nenhum canal encontrado</string>
+    <string name="playing">Reproduzindo</string>
+    <string name="paused">Pausado</string>
+    <string name="stopped">Parado</string>
+    <string name="buffering">Carregando...</string>
+</resources>
